@@ -1,0 +1,46 @@
+body {
+    Border: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+}
+
+Header {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    border: solid;
+    margin: 20px 100px 20px 100px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: gainsboro;
+}
+
+p {
+
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h4 {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img {
+    border: solid;
+}
+
+div {
+    padding: 0px 50px 0px 50px;
+
+}
